@@ -1,5 +1,1 @@
-1. /etc/init.d/lighttpd.sh stop //stop web server in BMC
-2. cp /usr/local/www/ /tmp/ -a
-3. mount -o bind /tmp/www/ /usr/local/www/
-4. replace the file you modified
-5. /etc/init.d/lighttpd.sh start //start web server in BMC
+just test
